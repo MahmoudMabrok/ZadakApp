@@ -8,4 +8,13 @@ Android App collect videos to make it easy for user to get all awesome videos in
 # Hints 
 - app use free host so i added local cache to reduce load on server so only refresh data once a day
 
-#
+# Screenshos
+<div>
+<img width="40%" src = "https://user-images.githubusercontent.com/13488900/80318496-d8688380-880a-11ea-993d-f3e03f5976b1.png">
+<img width="40%" src = "https://user-images.githubusercontent.com/13488900/80318498-dd2d3780-880a-11ea-8d2d-bc903504ca33.png">
+</div>
+
+
+# download 
+
+- [v1](https://github.com/MahmoudMabrok/ZadakApp/releases/tag/v1)
