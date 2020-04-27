@@ -1,4 +1,6 @@
 # ZadakApp
+[![HitCount](http://hits.dwyl.com/MahmoudMabrok/ZadakApp.svg)](http://hits.dwyl.com/MahmoudMabrok/ZadakApp)
+
 Android App collect videos to make it easy for user to get all awesome videos in one place. 
 
 # Feature 
